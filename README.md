@@ -99,7 +99,7 @@ Look ahead and look behind are used when looking to match something based on the
 
 ## Author
 
-Created By , UCONN Coding Bootcamp.
+Created By Jackson McCarthy, UCONN Coding Bootcamp.
 
 https://github.com/JakMcCarthy/Regex-info
 
